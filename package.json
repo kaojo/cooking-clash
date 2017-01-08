@@ -1,5 +1,5 @@
 {
-  "name": "Cooking Clash",
+  "name": "Cooking_Clash",
   "productName": "Cooking Clash",
   "author": "Julian Winter",
   "homepage": "https://github.com/kaojo",
@@ -38,7 +38,7 @@
     "electron:build:win:64": "electron-packager . cooking-clash --platform=win32 --arch=x64 --out=platforms --overwrite --icon=resources/icon.png"
   },
   "dependencies": {
-    "@ionic/app-scripts": "0.0.45",
+    "@ionic/app-scripts": "0.0.47",
     "@angular/common": "2.1.1",
     "@angular/compiler": "2.1.1",
     "@angular/compiler-cli": "2.1.1",
@@ -60,9 +60,8 @@
     "cordova": "^6.4.0",
     "cordova-browser": "^4.1.0",
     "cordova-check-plugins": "^2.0.0",
-    "electron": "1.4.12",
+    "electron": "^1.4.12",
     "electron-packager": "^8.4.0",
-    "electron-prebuilt": "^1.4.10",
     "typescript": "2.0.6"
   },
   "cordovaPlugins": [

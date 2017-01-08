@@ -8,7 +8,7 @@
   "version": "0.0.1",
   "description": "Cooking App",
   "scripts": {
-    "prepare": "npm install && ionic platform add android && ionic platform add browser && npm run reset && npm run build",
+    "setup": "npm install && ionic platform add android && ionic platform add browser && npm run reset && npm run build",
     "deploy": "ionic run android",
     "build": "cordova build && ionic build android && ionic build browser",
     "emulate": "ionic emulate android",

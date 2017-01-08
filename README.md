@@ -7,7 +7,7 @@ Clone the git repository:
 
 Prepare npm environment:
 
-`npm run prepare`
+`npm run setup`
 
 ## Commands Overview
 

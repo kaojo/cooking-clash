@@ -65,3 +65,5 @@ Ionic server commands, enter:
 * jdk (oracle)
 * android sdk , 24er API
 * running Android Virtual Device, eg. Genimotion avd or a avd started via android sdk
+* Set your ANDROID_HOME environment variable
+* Add Path to Android sdk to PATH variable

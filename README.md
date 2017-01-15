@@ -3,7 +3,7 @@
 ## SetUp Dev Enviroment
 Clone the git repository:
 
-`git clone git@github.com:kaojo/cooking-clash.git`
+`git clone git@github.com:kaojo/crash-cook.git`
 
 Prepare npm environment:
 
